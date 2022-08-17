@@ -4,6 +4,6 @@ El presente repositorio es un cuaderno de trabajo para el desarrollo del proyect
 
 El repositorio se encuentra organizado de la siguiente forma.
 
-+ [Primer año](https://github.com/pandao/editor.md "primer año")
++ [Primer año](https://github.com/RobertoWEscorcia/EEG/tree/main/Primer%20A%C3%B1o "primer año")
 
-+ [DataSet](https://github.com/pandao/editor.md "DataSet")
++ [DataSet](https://github.com/RobertoWEscorcia/EEG/tree/main/DataSet "DataSet")

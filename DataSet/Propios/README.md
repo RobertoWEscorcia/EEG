@@ -9,24 +9,24 @@ Para la adquisición de datos con los sujetos de prueba se van a tener en cuenta
 1. Se utilizará un dispositivo Aura Neuro Tech
 2. Se utilizará el conector usb incluido con el equipo a fin de garantizar la generación de ruido extra en las señales, este conectado a un puerto usb 3.0 
 3. La conexión de los electrodos se hará de la siguiente forma:
-	Paso 1: Electrodo color ? en la posición ?
-	Paso 2: Electrodo color ? en la posición ?
-	Paso 3: Electrodo color ? en la posición ?
-	Paso 4: Electrodo color ? en la posición ?
-	Paso 5: Electrodo color ? en la posición ?
-	Paso 6: Electrodo color ? en la posición ?
-	Paso 7: Electrodo color ? en la posición ?
-	Paso 8: Electrodo color ? en la posición ?
+	+ Paso 1: Electrodo color ? en la posición ?
+	+ Paso 2: Electrodo color ? en la posición ?
+	+ Paso 3: Electrodo color ? en la posición ?
+	+ Paso 4: Electrodo color ? en la posición ?
+	+ Paso 5: Electrodo color ? en la posición ?
+	+ Paso 6: Electrodo color ? en la posición ?
+	+ Paso 7: Electrodo color ? en la posición ?
+	+ Paso 8: Electrodo color ? en la posición ?  
     **Aún falta definir el orden y posiciones
 4. Se comprobará la correcta conexión del dispositivo, así como de cada uno de los electrodos por medio del programa Mirai Aura 
 
 ## Proceso para selección de participantes
 1. Se buscarán personas con nula interacción con los dispositivos de electroencefalograma
-2. El rango de edad se concentrará entre ¿-? años  
+2. El rango de edad se concentrará entre ¿-? años    
     **Aún falta definir edades de los participantes
 3. El sexo de los participantes no será de interés, pero se buscará mantener igualdad de participantes de ambos géneros
 4. Los participantes no deben tener alguna discapacidad física en el brazo derecho
-5. Los participantes no deben contar con alguna intervención quirúrgica en el brazo derecho en los últimos X meses
+5. Los participantes no deben contar con alguna intervención quirúrgica en el brazo derecho en los últimos X meses  
    **Aún falta definir tiempo de espera 
 6. Los participantes no deben tener diagnosticado algún daño cerebral o enfermedad en el encéfalo
 7. Los participantes no deben contar con alguna placa en el cráneo
@@ -43,9 +43,9 @@ Para la adquisición de datos con los sujetos de prueba se van a tener en cuenta
 9. Al momento de conectar cada electrodo se aplicará una pequeña porción de gel conductor.
 10. Los tiempos de captura de realizar movimiento e imaginar movimiento no deberán ser mayores a 5 segundos.
 11. El participante no podrá pestañear mientras se encuentre la captura de realizar movimiento e imaginar movimiento.
-12. Se le debe dar un X tiempo suficiente de descanso para que pueda descansar su vista y lubricar sus ojos.
+12. Se le debe dar un X tiempo suficiente de descanso para que pueda descansar su vista y lubricar sus ojos.  
     **Aún falta definir tiempo  
-13. El tiempo de captura de todas las señales no debe ser superior a X minutos.
+13. El tiempo de captura de todas las señales no debe ser superior a X minutos.  
     **Aún falta definir tiempo 
 
 ## Hardware
