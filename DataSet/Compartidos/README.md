@@ -2,7 +2,7 @@
 
 En este apartado se describe el protocolo usado para la obtención de estos datos y el Hardware utilizado.
 
-##Protocolo
+## Protocolo
 <ol>
     <li>Acomodar al sujeto en un espacio cómodo y libre de distracciones</li>
     <li>Se conectan la malla indicadora y los electrodos</li>
@@ -14,7 +14,7 @@ En este apartado se describe el protocolo usado para la obtención de estos dato
     </li>
 </ol>
 
-##Hardware
+## Hardware
 
 Se utilizó el dispositivo Aura Neuro Tech como dispositivo de electroencefalograma con las siguientes caracteristicas
 
