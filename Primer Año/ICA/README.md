@@ -1,0 +1,3 @@
+# ICA
+
+El analisis de componentes independientes (ICA) es una técnica para separar una señal multivariante en subcomponentes suponiendo que la señal de origen tiene una independencia estadística y es no-Gausiana. Éste es un caso especial de separación ciega de las señales. Se practica una transformación lineal de los datos originales, aunque la diferencia básica es que el ICA no requiere que las variables originales tengan una distribución gausiana. ICA a diferencia de PCA no necesita datos originales para poder realizar sub grupos, unicamente puede tomar datos independientes y buscar mas datos similares sin necesidad que le prosigan o antecedan.
