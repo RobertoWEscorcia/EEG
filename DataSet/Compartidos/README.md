@@ -1,4 +1,4 @@
-# Propios
+# Compartidos
 
 En este apartado se describe el protocolo usado para la obtención de estos datos y el Hardware utilizado.
 
