@@ -57,4 +57,5 @@ Se utilizó el dispositivo Aura Neuro Tech como dispositivo de electroencefalogr
     <li>1 canal de referencia</li>
     <li>1 canal de tierra</li>
     <li>254 Hz de muestreo de datos</li>
+    <li>Transmisión a 300kbps</li>
 </ul>
